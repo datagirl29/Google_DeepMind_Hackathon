@@ -1,0 +1,7 @@
+{
+  "name": "The Unsalted Truth",
+  "description": "No Spice, Just Facts. A verified, unbiased news analyzer powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
